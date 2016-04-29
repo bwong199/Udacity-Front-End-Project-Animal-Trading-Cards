@@ -20,18 +20,19 @@ span {
 }
 
 ul {
-	list-style-type:none
+	list-style-type: none
 }
 
-#intro{
+.intro {
 	font-style: italic;
 }
 
-#list, li {
+.list, 
+li {
 	font-style: italic;
 }
 
-#body {
+.body {
 	margin-top: 10px;
 	border-style: solid;
 	padding: 10px;
